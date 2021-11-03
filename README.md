@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Atska
 - 👀 I’m interested in Javascript, ReactJS, Python and other frontend stuff.
 - 🌱 I’m currently learning Solidity on the ETH blockchain.
-- 📫 https://binhdnguyen.tech/
 
 <!---
 Atska/Atska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
